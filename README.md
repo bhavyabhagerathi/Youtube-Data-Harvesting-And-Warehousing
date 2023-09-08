@@ -94,3 +94,7 @@
 #### Step 3. Channel Data Analysis zone
 
 * **Select a Question** from the dropdown option you can get the **results in Dataframe format or bar chat format**.
+
+## Video Link
+
+https://www.linkedin.com/posts/bhavya-b-575b32281_datascience-dataanalysis-dataengineering-activity-7105919030284226560-ASBZ?utm_source=share&utm_medium=member_desktop
